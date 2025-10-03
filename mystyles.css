@@ -263,6 +263,7 @@ html,body{ height:100%; font-family: "Poppins", system-ui, -apple-system, "Segoe
   display: inline-flex;
   align-items: center;
   gap: 8px;
+  background: #ff3369;
   background: var(--accent-2);
   color: #fff;
   border: none;
@@ -274,7 +275,7 @@ html,body{ height:100%; font-family: "Poppins", system-ui, -apple-system, "Segoe
 }
 
 .btn-submit:hover {
-  background: #ff3369;
+  background: #4133ff;
   transform: translateY(-2px);
 }
 
